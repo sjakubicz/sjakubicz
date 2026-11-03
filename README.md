@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer & Data Scientist** based in Warsaw, Poland.
 
-I design and build production AI systems end to end: LLM-powered pipelines that turn unstructured documents into knowledge graphs, real-time computer vision on edge devices, and the full-stack products around them. For over four years I have done this at [Million Monkeys Software](https://millionmonkeyssoftware.com), working directly with clients from the first requirements call to production.
+I design and build production AI systems end to end: LLM-powered pipelines that turn unstructured documents into knowledge graphs, real-time computer vision on edge devices, and the full-stack products around them. For over four years I have done this at [Million Monkeys Software](https://www.linkedin.com/company/million-monkeys-software/posts/?feedView=all), working directly with clients from the first requirements call to production.
 
 ## Areas of Work
 
